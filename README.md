@@ -25,6 +25,3 @@ Animated diagram videos currently in Buffer drafts.
 | Kerala/Remote | `#F59E0B` amber |
 | Personal Philosophy | `#EC4899` rose |
 
-## Generation
-
-Videos are built with [Remotion](https://remotion.dev). Source at `~/workspace/linkedin-cards` on starfire.
